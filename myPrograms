@@ -1,0 +1,5 @@
+Public static void main(String args[])
+{
+String h1="Welcome to the git hub world";
+System.out.println(h1);
+}
